@@ -20,7 +20,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Awesome Books <a name="about-project"></a>
+# 📖 Webpack Boilerplate <a name="about-project"></a>
 
 > Webpack boilerplate is a full webpack setup that can be used to start projects.
 
